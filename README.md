@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Vishal Amatt 👋
+
+   👀 A sophomore trying to learn new stuff <br>
+    🌱 I’m currently trying to learn new languages along with some frameworks <br>
+    ✨ I'll update this as I gain more knowledge and expertise <br>
+    👋 Socials at [@zen_ro_](https://twitter.com/zen_ro_)
 
 <!--
 **Vishalamatt/Vishalamatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+   
+
+
