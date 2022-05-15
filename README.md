@@ -3,7 +3,7 @@
    👀 A sophomore trying to learn new stuff <br>
     🌱 I’m also a heavy meadia consumer and gamer <br>
     ✨ I’m currently trying to learn as much as I can <br>
-    👋 I'll update this as I gain more knowledge and expertise <br>
+
 
 <!--
 **Vishalamatt/Vishalamatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
