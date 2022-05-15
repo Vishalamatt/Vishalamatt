@@ -1,4 +1,4 @@
-### Hi, I'm Vishal Amatt 👋
+### Hi, I'm Vishal 👋
 
    👀 A sophomore trying to learn new stuff <br>
     🌱 I’m also a heavy meadia consumer and gamer <br>
